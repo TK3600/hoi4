@@ -9942,7 +9942,7 @@
     "amphibious_tank_equipment_1": {
       "air_attack": 0,
       "ap_attack": 10,
-      "armor_value": 10,
+      "armor_value": 20,
       "breakthrough": 26,
       "build_cost_ic": 10,
       "defense": 4,
@@ -9970,7 +9970,7 @@
     "amphibious_tank_equipment_2": {
       "air_attack": 0,
       "ap_attack": 61,
-      "armor_value": 60,
+      "armor_value": 80,
       "breakthrough": 36,
       "build_cost_ic": 13,
       "defense": 5,
